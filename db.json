@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "luciano@feder.com",
+      "password": "$2a$10$aPVNAv8OkKJi6FKlSZ3k8.FG5J1Yvyf5tedJq7oFWEDKu92ou9BmS",
+      "user": "lucianofeder",
+      "cpf": "04722222959",
+      "permission": 3,
+      "vaccines": [1,2,3]
+    }
+  ],
+  "vaccines": [
+    {
+      "id": 1,
+      "name": "H1N1",
+      "required": true,
+      "doses": 1,
+      "description": "mensagem de descricao teste"
+    },
+    {
+      "id": 2,
+      "name": "COVID",
+      "required": true,
+      "doses": 1,
+      "description": "mensagem de descricao teste"
+    },
+    {
+      "id": 3,
+      "name": "Hepatite B",
+      "required": true,
+      "doses": 1,
+      "description": "mensagem de descricao teste"
+    },
+    {
+      "id": 4,
+      "name": "Tetano",
+      "required": true,
+      "doses": 1,
+      "description": "mensagem de descricao teste"
+    },
+    {
+      "id": 5,
+      "name": "Influenza",
+      "required": false,
+      "doses": 1,
+      "description": "mensagem de descricao teste"
+    }
+  ],
+  "locals": [
+    {
+      "id": 1,
+      "name": "UPA 24H",
+      "street": "Nereu Ramos",
+      "district": "Floresta",
+      "vaccines": [4,3,2]
+    }
+  ]
+}
