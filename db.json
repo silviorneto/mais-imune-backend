@@ -7,7 +7,16 @@
       "user": "lucianofeder",
       "cpf": "04722222959",
       "permission": 3,
-      "vaccines": [1,2,3]
+      "vaccines": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "email": "wesley@mail.com",
+      "password": "$2a$10$w0pz6/uHcXZR6cRUsEUidOLnP8NDHcxH7Dzk63VlO3PLJ9LFsZpGy",
+      "name": "wesley",
+      "cpf": "00000000000",
+      "permission": 3,
+      "vaccines": [4, 2, 3]
     }
   ],
   "vaccines": [
@@ -53,7 +62,7 @@
       "name": "UPA 24H",
       "street": "Nereu Ramos",
       "district": "Floresta",
-      "vaccines": [4,3,2]
+      "vaccines": [4, 3, 2]
     }
   ]
 }
