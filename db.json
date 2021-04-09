@@ -7,7 +7,11 @@
       "user": "lucianofeder",
       "cpf": "04722222959",
       "permission": 3,
-      "vaccines": [1, 2, 3]
+      "vaccines": [
+        { "id": 1, "aplication": "2021-01-17" },
+        { "id": 2, "aplication": "2021-03-05" },
+        { "id": 3, "aplication": "2021-01-17" }
+      ]
     },
     {
       "id": 2,
@@ -16,7 +20,11 @@
       "name": "wesley",
       "cpf": "00000000000",
       "permission": 3,
-      "vaccines": [4, 2, 3]
+      "vaccines": [
+        { "id": 4, "aplication": "2021-01-17" },
+        { "id": 2, "aplication": "2021-03-05" },
+        { "id": 3, "aplication": "2021-01-17" }
+      ]
     }
   ],
   "vaccines": [
