@@ -47,35 +47,40 @@
           "name": "H1N1",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste"
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
         },
         {
           "id": 2,
           "name": "COVID",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste"
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
         },
         {
           "id": 3,
           "name": "Hepatite B",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste"
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
         },
         {
           "id": 4,
           "name": "Tetano",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste"
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
         },
         {
           "id": 5,
           "name": "Influenza",
           "required": false,
           "doses": 1,
-          "description": "mensagem de descricao teste"
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
         }
       ]
     },
