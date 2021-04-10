@@ -8,9 +8,30 @@
       "cpf": "04722222959",
       "permission": 3,
       "vaccines": [
-        { "id": 1, "aplication": "2021-01-17" },
-        { "id": 2, "aplication": "2021-03-05" },
-        { "id": 3, "aplication": "2021-01-17" }
+        {
+          "id": 1,
+          "name": "H1N1",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        },
+        {
+          "id": 2,
+          "name": "COVID",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-03-05"
+        },
+        {
+          "id": 3,
+          "name": "Hepatite B",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        }
       ]
     },
     {
@@ -21,10 +42,110 @@
       "cpf": "00000000000",
       "permission": 3,
       "vaccines": [
-        { "id": 4, "aplication": "2021-01-17" },
-        { "id": 2, "aplication": "2021-03-05" },
-        { "id": 3, "aplication": "2021-01-17" }
+        {
+          "id": 1,
+          "name": "H1N1",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste"
+        },
+        {
+          "id": 2,
+          "name": "COVID",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste"
+        },
+        {
+          "id": 3,
+          "name": "Hepatite B",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste"
+        },
+        {
+          "id": 4,
+          "name": "Tetano",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste"
+        },
+        {
+          "id": 5,
+          "name": "Influenza",
+          "required": false,
+          "doses": 1,
+          "description": "mensagem de descricao teste"
+        }
       ]
+    },
+    {
+      "email": "silvio@mail.com",
+      "password": "$2a$10$6uVAisdWDoTKn97HvaQe6uC6Siz6ZWA0R8jjxmwbkmnMdBqyA9.Ee",
+      "name": "silvio",
+      "cpf": "00000000000",
+      "permission": 3,
+      "vaccines": [
+        {
+          "id": 1,
+          "name": "H1N1",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        },
+        {
+          "id": 2,
+          "name": "COVID",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-03-05"
+        },
+        {
+          "id": 3,
+          "name": "Hepatite B",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "lucas@mail.com",
+      "password": "$2a$10$ORdD2XiZZDGrvI8JPCJdBuKcmx/LLYaxiF9JJMMVJ/dT4DqJogDK6",
+      "name": "lucas",
+      "cpf": "00000000000",
+      "permission": 3,
+      "vaccines": [
+        {
+          "id": 1,
+          "name": "H1N1",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        },
+        {
+          "id": 2,
+          "name": "COVID",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-03-05"
+        },
+        {
+          "id": 3,
+          "name": "Hepatite B",
+          "required": true,
+          "doses": 1,
+          "description": "mensagem de descricao teste",
+          "aplication": "2021-01-17"
+        }
+      ],
+      "id": 4
     }
   ],
   "vaccines": [
