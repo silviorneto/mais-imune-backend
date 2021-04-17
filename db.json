@@ -43,7 +43,7 @@
       "password": "$2a$10$w0pz6/uHcXZR6cRUsEUidOLnP8NDHcxH7Dzk63VlO3PLJ9LFsZpGy",
       "name": "Wesley Snipes",
       "cpf": "04246447030",
-      "permission": 3,
+      "permission": 1,
       "vaccines": [
         {
           "id": 1,
