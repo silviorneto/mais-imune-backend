@@ -41,7 +41,7 @@
       "id": 2,
       "email": "wesley@mail.com",
       "password": "$2a$10$w0pz6/uHcXZR6cRUsEUidOLnP8NDHcxH7Dzk63VlO3PLJ9LFsZpGy",
-      "name": "wesley",
+      "name": "Wesley Snipes",
       "cpf": "04246447030",
       "permission": 3,
       "vaccines": [
@@ -88,14 +88,14 @@
           "doses": 1,
           "description": "mensagem de descricao teste",
           "aplication": "2021-01-17",
-          "professional": "gabriel araujo" 
+          "professional": "gabriel araujo"
         }
       ]
     },
     {
       "email": "silvio@mail.com",
       "password": "$2a$10$6uVAisdWDoTKn97HvaQe6uC6Siz6ZWA0R8jjxmwbkmnMdBqyA9.Ee",
-      "name": "silvio",
+      "name": "Silvio Romano Neto",
       "cpf": "01191904008",
       "permission": 3,
       "vaccines": [
@@ -132,7 +132,7 @@
     {
       "email": "lucas@mail.com",
       "password": "$2a$10$ORdD2XiZZDGrvI8JPCJdBuKcmx/LLYaxiF9JJMMVJ/dT4DqJogDK6",
-      "name": "lucas",
+      "name": "Lucas Jacinto",
       "cpf": "67420478015",
       "permission": 3,
       "vaccines": [
@@ -169,7 +169,7 @@
     {
       "email": "gustavo@mail.com",
       "password": "$2a$10$mUdijV8FKae2afnhML.zD.eH.3PJlfTFiSgMsdOeWl6LHkEthBX.e",
-      "name": "gustavo",
+      "name": "Gustavo Messias",
       "cpf": "40330254057",
       "permission": 3,
       "vaccines": [],
@@ -178,7 +178,7 @@
     {
       "email": "gabriel@mail.com",
       "password": "$2a$10$qNnMVdUPQbAz0vmShUDA9edZXFgjxpHie4.E1YyfUNTI2gfSnX4XG",
-      "name": "gabriel araujo",
+      "name": "Gabriel Araujo",
       "cpf": "95732472088",
       "permission": 2,
       "vaccines": [],
@@ -187,7 +187,7 @@
     {
       "email": "filipe@mail.com",
       "password": "$2a$10$JqeT1fBcpKyIRRaOR5qu/.ng8ZwSEbpTNGP.TrpmBMVL3NcB.boV6",
-      "name": "filipe gutierry",
+      "name": "Filipe Gutierry",
       "cpf": "03123187071",
       "permission": 2,
       "vaccines": [],
@@ -304,87 +304,49 @@
       "name": "UPA 24H",
       "street": "Nereu Ramos",
       "district": "Floresta",
-      "vaccines": [
-        4,
-        3,
-        2
-      ]
+      "vaccines": [4, 3, 2]
     },
     {
       "id": 2,
       "name": "UPA Campo Comprido",
       "street": "Rua Monsenhor Ivo Zanlorenzi",
       "district": "Campo Comprido",
-      "vaccines": [
-        3,
-        12,
-        7,
-        5,
-        4
-      ]
+      "vaccines": [3, 12, 7, 5, 4]
     },
     {
       "id": 3,
       "name": "UPA Cajuru",
       "street": "R. Eng. Benedito Mario da Silva",
       "district": "Cajuru",
-      "vaccines": [
-        1,
-        9,
-        11,
-        6
-      ]
+      "vaccines": [1, 9, 11, 6]
     },
     {
       "id": 4,
       "name": "UPA Pinheirinho",
       "street": "Rua Leon Nícolas",
       "district": "Capão Raso",
-      "vaccines": [
-        7,
-        2,
-        4,
-        3
-      ]
+      "vaccines": [7, 2, 4, 3]
     },
     {
       "id": 5,
       "name": "UPA CIC",
       "street": "Rua Senador Accioly Filho",
       "district": "Cidade Industrial De Curitiba",
-      "vaccines": [
-        11,
-        2,
-        1,
-        3,
-        10
-      ]
+      "vaccines": [11, 2, 1, 3, 10]
     },
     {
       "id": 6,
       "name": "UPA Sítio Cercado",
       "street": "Rua Dr. Levy Buquera",
       "district": "Sítio Cercado",
-      "vaccines": [
-        11,
-        5,
-        7
-      ]
+      "vaccines": [11, 5, 7]
     },
     {
       "id": 7,
       "name": "UPA Boqueirão",
       "street": "Rua Professora Maria de Assumpção",
       "district": "Boqueirão",
-      "vaccines": [
-        2,
-        4,
-        7,
-        8,
-        9,
-        10,
-        12
-      ]
+      "vaccines": [2, 4, 7, 8, 9, 10, 12]
     }
   ]
 }
