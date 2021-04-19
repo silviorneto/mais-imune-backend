@@ -13,7 +13,7 @@
           "name": "H1N1",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B",
           "aplication": "2021-01-17",
           "professional": "filipe gutierry"
         },
@@ -22,7 +22,7 @@
           "name": "COVID",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Vacina em fase de testes",
           "aplication": "2021-03-05",
           "professional": "gabriel araujo"
         },
@@ -31,7 +31,7 @@
           "name": "Hepatite B",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio e cloreto de sódio.",
           "aplication": "2021-01-17",
           "professional": "filipe gutierry"
         }
@@ -50,7 +50,7 @@
           "name": "H1N1",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B",
           "aplication": "2021-01-17",
           "professional": "filipe gutierry"
         },
@@ -59,7 +59,7 @@
           "name": "COVID",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Vacina em fase de testes",
           "aplication": "2021-01-17",
           "professional": "filipe gutierry"
         },
@@ -68,7 +68,7 @@
           "name": "Hepatite B",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio e cloreto de sódio.",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         },
@@ -77,7 +77,7 @@
           "name": "Tetano",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "É recomendado que seja tomada juntamente com a vacina da difteria ou difteria e coqueluche",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         },
@@ -86,7 +86,7 @@
           "name": "Influenza",
           "required": false,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "As pessoas que estão nos grupos de risco precisam se vacinar, de preferência, antes do inverno chegar.",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         }
@@ -104,7 +104,7 @@
           "name": "H1N1",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B",
           "aplication": "2021-01-17",
           "professional": "filipe gutierry"
         },
@@ -113,7 +113,7 @@
           "name": "COVID",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Vacina em fase de testes",
           "aplication": "2021-03-05",
           "professional": "filipe gutierry"
         },
@@ -122,7 +122,7 @@
           "name": "Hepatite B",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio e cloreto de sódio.",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         }
@@ -141,7 +141,7 @@
           "name": "H1N1",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         },
@@ -150,7 +150,7 @@
           "name": "COVID",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "Vacina em fase de testes",
           "aplication": "2021-03-05",
           "professional": "gabriel araujo"
         },
@@ -159,7 +159,7 @@
           "name": "Hepatite B",
           "required": true,
           "doses": 1,
-          "description": "mensagem de descricao teste",
+          "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio e cloreto de sódio.",
           "aplication": "2021-01-17",
           "professional": "gabriel araujo"
         }
@@ -218,35 +218,35 @@
       "name": "H1N1",
       "required": true,
       "doses": 1,
-      "description": "A vacina  trivalente previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B"
+      "description": "Previne contra três tipos de vírus influenza e é composta por três cepas (espécies do vírus): uma cepa A/H1N1, uma cepa A/H3N2 e uma cepa B"
     },
     {
       "id": 2,
       "name": "COVID",
       "required": true,
       "doses": 2,
-      "description": "mensagem de descricao teste"
+      "description": "Vacina em fase de testes"
     },
     {
       "id": 3,
       "name": "Hepatite B",
       "required": true,
       "doses": 1,
-      "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio, cloreto de sódio e água para injeção. Pode conter fosfato de sódio, fosfato de potássio e borato de sódio."
+      "description": "É composta por proteína de superfície do vírus da hepatite B purificado, hidróxido de alumínio e cloreto de sódio."
     },
     {
       "id": 4,
       "name": "Tetano",
       "required": true,
       "doses": 2,
-      "description": "A vacina contra o tétano é recomendada para crianças, adultos e idosos e é recomendado que seja tomada juntamente com a vacina da difteria ou difteria e coqueluche"
+      "description": "É recomendado que seja tomada juntamente com a vacina da difteria ou difteria e coqueluche"
     },
     {
       "id": 5,
       "name": "Influenza",
       "required": false,
       "doses": 1,
-      "description": "A vacina contra a influenza (gripe) é segura e é a medida mais importante para evitar casos graves e mortes em decorrência da doença. As pessoas que estão nos grupos de risco precisam se vacinar, de preferência, antes do inverno chegar."
+      "description": "As pessoas que estão nos grupos de risco precisam se vacinar, de preferência, antes do inverno chegar."
     },
     {
       "id": 6,
@@ -274,28 +274,28 @@
       "name": "Tetraviral",
       "required": false,
       "doses": 1,
-      "description": "Trata-se de vacina atenuada, contendo vírus vivos “enfraquecidos” do sarampo, da rubéola, da caxumba e da varicela (catapora), lactose anidra, sorbitol, manitol, aminoácidos, traços de neomicina e água para injeção."
+      "description": "Trata-se de vacina atenuada, contendo vírus vivos “enfraquecidos” do sarampo, da rubéola, da caxumba e da varicela (catapora)."
     },
     {
       "id": 10,
       "name": "Varicela",
       "required": true,
       "doses": 1,
-      "description": "Trata-se de vacina atenuada, contendo vírus vivos “enfraquecidos” da varicela, além de gelatina, traços de neomicina, água para injeção. Não contém traços de proteína do ovo de galinha."
+      "description": "Trata-se de vacina atenuada, contendo vírus vivos “enfraquecidos” da varicela."
     },
     {
       "id": 11,
       "name": "Poliomelite",
       "required": false,
       "doses": 2,
-      "description": "Vacina Inativada Poliomielite (VIP) é uma vacina aplicada de forma intramuscular que contém amostras “mortas” desse vírus. Indicada para pessoas com imunidade baixa, gestantes e pessoas que pretendem viajar para o exterior"
+      "description": "Indicada para pessoas com imunidade baixa, gestantes e pessoas que pretendem viajar para o exterior"
     },
     {
       "id": 12,
       "name": "HPV",
       "required": true,
       "doses": 1,
-      "description": "Combate a doenca tambem conhecida como crista de galo que é o precedente da maioria dos casos de câncer de colo de útero e pode ser combatida ou amenizada com a vacina HPV"
+      "description": "Combate a doenca tambem conhecida como crista de galo que é o precedente da maioria dos casos de câncer de colo de útero"
     }
   ],
   "locals": [
